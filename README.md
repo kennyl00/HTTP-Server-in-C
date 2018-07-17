@@ -1,4 +1,4 @@
-# _A Simple HTTP Server_ #
+# __A Simple HTTP Server__ #
 This simple server program is written in C. 
 * It processes only `GET` request (e.g. `GET /css/style.css HTTP/1.0`) 
 * It can only handle file types of `.html`, `.jpg`, `.css`, and `.js`.
